@@ -1,6 +1,6 @@
 # Padlock
 
-    Padlock is a simple Command-Line Application, that runs as a Binary, calling the Auth0 API with the _email address_ and _password_ supplied as arguments on execution.
+Padlock is a simple Command-Line Application, that runs as a Binary, calling the Auth0 API with the _email address_ and _password_ supplied as arguments on execution.
 
 Part **one** of a **three** part series on non-interactive Auth0 clients.  For this part, I've built a simple Elixir app that allows a user to authenticate themselves through a CLI,  and view account details of themselves in a command line environment, utilising the [Resource Owner Password Grant flow with Auth0](https://auth0.com/docs/api-auth/grant/password).
 
